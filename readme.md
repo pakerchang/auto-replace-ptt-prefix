@@ -1,4 +1,5 @@
-# 將ptt.cc網址自動替換成pttweb
+
+將ptt.cc網址自動替換成pttweb
 
 
 ### [油猴腳本](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-TW)
